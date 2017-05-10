@@ -1,4 +1,4 @@
-#Code for the projec.
+#Code for the project.
 
 #Installing library
 install.packages('plyr')
